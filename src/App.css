@@ -1,0 +1,27 @@
+.container {
+  width: 90vw;
+  margin: 1rem auto;
+}
+
+input,
+button {
+  padding: 10px;
+  margin-left: 3px;
+}
+
+.remove-btn {
+  padding: 4px;
+  margin-left: 1rem;
+  cursor: pointer;
+  color: red;
+}
+
+.modal {
+  background-color: rgb(239, 62, 62);
+  color: white;
+  width: 30%;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
